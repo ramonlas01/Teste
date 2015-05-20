@@ -1,0 +1,7 @@
+---
+title: "Capítulo 1: Expressões Regulares"
+---
+
+Nós começamos nossa exploração sobre programação com **expressões regulares**.[^1] Algumas vezes conhecida como "regex", as expressões regulares são uma forma de representar padrões de caracteres usando regras predefinidas. 
+
+Pense em expressões regulares como uma versão mais rápida e mais poderosa do recurso "Localizar e Substituir" dos processadores de texto. Quando você pesquisa por algo como "Juiz" em um processador de texto, ele irá mostrar apenas combinações exatas - no máximo, você pode encontrar "juiz" também se desabilitar a diferenciação entre maísculas e minúsculas. If you want to find all similar matches, like "judicial" and "judiciary", you'll have to manually search for every type.
